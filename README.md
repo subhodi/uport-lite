@@ -33,7 +33,7 @@ const registry = UportLite({
   networks: {
     '0x94365e3b': {
       rpcUrl: 'https://private.chain/rpc',
-      address: '0x0101....'
+      registry: '0x0101....'
     }
   }
 })
